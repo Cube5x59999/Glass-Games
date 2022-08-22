@@ -4,3 +4,7 @@ i need to make when hover in the button the button will tween size to be large a
 (Parent of script : Button)
 (ScriptType: LocalScript)
 ]]
+local Button = script.Parent
+Button.MouseHover:connect(function()
+    Button:TweenSize(UDim2.new(-- what to put here),.......)
+end)
