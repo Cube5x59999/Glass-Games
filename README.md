@@ -1,2 +1,2 @@
-# Glass-Games
-Glass Games Website
+# Glass-Games-OpenSourceScripts
+Glass Games Website For Open-Source Scripts!
